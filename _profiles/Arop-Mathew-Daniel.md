@@ -7,14 +7,13 @@ region: Central Equatoria
 hub: Junub Open Space
 languages: English (Very Good), Luganda (Good), Juba-Arabic (Very Good)
 mail: aropmathewdaniel123@gmail.com
-phone: "+211920879473"
-whatsapp: "+211920879473"
+phone: "+211923110185"
+whatsapp: "+211923110185"
 website: www.aropmathewdaniel.site
 telegram: Aropmathewdaniel
 github: Aropmathewdaniel
-linkedin: 
-twitter: wakandadaniel
-facebook: wakanda.danielarop
+linkedin: Aropmathewdaniel
+facebook: Aropmathewdaniel
 instagram: Aropmathewdaniel211
 mastodon: 
 wikifab: Aropmathewdaniel
